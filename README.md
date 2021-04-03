@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis:
 
 The CEO of PyBer, a ride-sharing company has tasked me and a partner, Omar, to provide an analysis of their ride-sharing data from CSVs. To do this, we will create a summary of ride-sharing data by city type (Urban, Suburban and Rural). Based on the differences in ride-sharing data between the city types, provide recommendations to decision makers at PyBer. 
 
