@@ -5,11 +5,12 @@
 The CEO of PyBer, a ride-sharing company has tasked me and a partner, Omar, to provide an analysis of their ride-sharing data from CSVs. To do this, we will create a summary of ride-sharing data by city type (Urban, Suburban and Rural). Based on the differences in ride-sharing data between the city types, provide recommendations to decision makers at PyBer. 
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-[ADD IMAGE OF PYBER SUMMARY DF]
+**PyBer Summary DataFrame**
+<img width="548" alt="PyBer-Summary_DF" src="https://user-images.githubusercontent.com/69849998/113494425-0d1e9980-94b6-11eb-9fab-7b1cf3c75eb2.png">
 
 The summary dataframe above demonstrates that the Rural cities have the lowest total rides (125), drivers (78) and fares ($4,327.93), while urban the highest of total rides (1,625), drivers (2,405) and fares (39,854.38). while the avg fare per ride and per driver is the highest in rural at $34.62 and $55.49 respectively. It makes sense that Rural cities have the fewest rides and drivers and lowest fares, but the highest average fare per ride and per driver, since ride shares in rural ares are likely fewer and longer and more expensive since there are fewer drivers. This is based on the assumption, like Uber, that the lower the demand and number of drivers, the higher the cost.
 
-[ADD IMAGE OF DATAFRAME]
+![Fig8](https://user-images.githubusercontent.com/69849998/113494431-1b6cb580-94b6-11eb-84fc-41819bad17c4.png)
 
 The line graph above demonstrates that Urban cities generated the most fares, Rural cities, the least, and suburban cities were in between. All three city types saw an uptick in fares in late February. 
 
