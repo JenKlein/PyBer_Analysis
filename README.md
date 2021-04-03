@@ -12,7 +12,7 @@ The CEO of PyBer, a ride-sharing company has tasked me and a partner, Omar, to p
 
 The summary dataframe above demonstrates that the Rural cities have the lowest total rides (125), drivers (78) and fares ($4,327.93), while urban the highest of total rides (1,625), drivers (2,405) and fares (39,854.38). while the avg fare per ride and per driver is the highest in rural at $34.62 and $55.49 respectively. It makes sense that Rural cities have the fewest rides and drivers and lowest fares, but the highest average fare per ride and per driver, since ride shares in rural ares are likely fewer and longer and more expensive since there are fewer drivers. This is based on the assumption, like Uber, that the lower the demand and number of drivers, the higher the cost.
 
-**Total Fares by City type
+**Total Fares by City type**
 
 ![Fig8](https://user-images.githubusercontent.com/69849998/113494431-1b6cb580-94b6-11eb-84fc-41819bad17c4.png)
 
